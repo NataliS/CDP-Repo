@@ -1,0 +1,6 @@
+c:\users\natallia_smaliarova\documents\visual studio 2012\Projects\SwopTheStrings\SwopTheStrings\bin\Debug\SwopTheStrings.exe.config
+c:\users\natallia_smaliarova\documents\visual studio 2012\Projects\SwopTheStrings\SwopTheStrings\bin\Debug\SwopTheStrings.exe
+c:\users\natallia_smaliarova\documents\visual studio 2012\Projects\SwopTheStrings\SwopTheStrings\bin\Debug\SwopTheStrings.pdb
+c:\users\natallia_smaliarova\documents\visual studio 2012\Projects\SwopTheStrings\SwopTheStrings\obj\Debug\SwopTheStrings.csprojResolveAssemblyReference.cache
+c:\users\natallia_smaliarova\documents\visual studio 2012\Projects\SwopTheStrings\SwopTheStrings\obj\Debug\SwopTheStrings.exe
+c:\users\natallia_smaliarova\documents\visual studio 2012\Projects\SwopTheStrings\SwopTheStrings\obj\Debug\SwopTheStrings.pdb
